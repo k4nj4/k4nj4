@@ -1,7 +1,7 @@
 ### Hello World!
 
-- 🔭 Hoje trabalho com Segurança da Informação
-- 🌱 Atualmente estudo Cybersecurity na FIAP
+- 🔭 Offensive Security Analyst
+- 🌱 FIAP
 
 <div>
   <a href="https://github.com/Denailly">
